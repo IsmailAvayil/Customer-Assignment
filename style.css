@@ -1,0 +1,59 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@500&display=swap');
+
+
+
+
+
+
+.success, .error {
+  color: white;
+  padding: 5px;
+  margin: 5px 0 15px 0;
+}
+
+.success {
+  background: green;
+}
+
+.error {
+  background: red;
+}
+
+
+h3{
+  background-color:#000000;
+  color: #fff;
+}
+
+
+.drpdwn{
+  border-style: none;
+  background-color: #fff;
+}
+
+h3{
+  font-family: 'Noto Sans Mono', monospace;
+  padding: 10px;
+}
+
+#gender{
+  display: inline-block;
+  width: 15px;
+  height: 10px;
+  
+}
+#warning{
+  display:none;
+  color: red;
+}
+
+#email-warning{
+  display:none;
+  color: red;
+}
+#message{
+  display:none;
+  color: red;
+
+}

@@ -1,0 +1,44 @@
+[ 
+  {
+  "id":"Canada",
+  "state1":"Alberta",
+  "state2":"Manitoba",
+  "state3":"British Columbia",
+  "state4":"Nova Scotia",
+  "state5":"Nunavut",
+  "state6":"Ontario",
+  "state7":"Yukon"
+  },
+  {
+  "id":"Russia",
+  "state1":"Buryatia",
+  "state2":"Crimea",
+  "state3":"Dagestan",
+  "state4":"Sakha",
+  "state5":"Altai",
+  "state6":"Chuvashia",
+  "state7":"Komi"
+
+  },
+  {
+  "id":"India",
+  "state1":"Andhra Pradesh",
+  "state2":"Assam",
+  "state3":"Bihar",
+  "state4":"Goa",
+  "state5":"Kerala",
+  "state6":"Karnataka",
+  "state7":"Himachal Pradesh"
+  },
+  {
+   "id":"Austrailia",
+  "state1":"Victoria",
+  "state2":"Thasmania",
+  "state3":" South austrailia",
+  "state4":" West austrailia",
+  "state5":"Queensland",
+  "state6":"Labrador",
+  "state7":" Northwest Territories"
+  }
+
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "salutation":"Mr",
+    "firstname":"ismail",
+    "lastname":"mohammed",
+    "email":"ismail@gmail.com",
+    "gender":"male",
+    "phone" :"9895818712",
+    "country":"india",
+    "state":"kerala",
+    "city":"malappuram",
+    "date":"11-10-2021"
+  },
+    
+  {
+  
+    "salutation":"Mr",
+    "firstname":"samad",
+    "lastname":"sha",
+    "email":"samad@gmail.com",
+    "gender":"male",
+    "phone" :"9846647839",
+    "country":"india",
+    "state":"kerala",
+    "city":"malappuram",
+    "date":"09-10-2021"
+
+  },
+  {
+    
+    "salutation":"Mrs",
+    "firstname":"rahma",
+    "lastname":"aslam",
+    "email":"rahma@gmail.com",
+    "gender":"female",
+    "phone" :"7865467854",
+    "country":"india",
+    "state":"kerala",
+    "city":"kottayam",
+    "date":"08-10-2021"
+
+  },
+  {
+    
+    "salutation":"Mrs",
+    "firstname":"Harsha",
+    "lastname":"raj",
+    "email":"harsha@gmail.com",
+    "gender":"female",
+    "phone" :"9862467854",
+    "country":"india",
+    "state":"kerala",
+    "city":"kannur",
+    "date":"11-10-2021"
+
+  },
+  {
+  
+    "salutation":"Mr",
+    "firstname":"Rahul",
+    "lastname":"Dravid",
+    "email":"rahul@gmail.com",
+    "gender":"male",
+    "phone" :"9875467854",
+    "country":"india",
+    "state":"kerala",
+    "city":"thrissur",
+    "date":"12-10-2021"
+
+  },
+  {
+  
+    "salutation":"Mr",
+    "firstname":"abdul",
+    "lastname":"basith",
+    "email":"basith@gmail.com",
+    "gender":"male",
+    "phone" :"7865467546",
+    "country":"india",
+    "state":"kerala",
+    "city":"calicut",
+    "date":"05-10-2021"
+
+  },
+  {
+    
+    "salutation":"Mrs",
+    "firstname":"fahma",
+    "lastname":"rahim",
+    "email":"fahma@gmail.com",
+    "gender":"female",
+    "phone" :"9786546785",
+    "country":"india",
+    "state":"kerala",
+    "city":"kottayam",
+    "date":"02-10-2021"
+
+  },
+  {
+    
+    "salutation":"Mr",
+    "firstname":"mubasir",
+    "lastname":"razi",
+    "email":"razi@gmail.com",
+    "gender":"male",
+    "phone" :"7866757854",
+    "country":"india",
+    "state":"kerala",
+    "city":"calicut",
+    "date":"03-10-2021"
+
+  },
+  {
+    
+    "salutation":"Mr",
+    "firstname":"ashwin",
+    "lastname":"sreesh",
+    "email":"ashwin@gmail.com",
+    "gender":"male",
+    "phone" :"9865467854",
+    "country":"india",
+    "state":"kerala",
+    "city":"idukki",
+    "date":"03-10-2021"
+
+  },
+  {
+    
+    "salutation":"Mr",
+    "firstname":"Abhishek",
+    "lastname":"Choudhary",
+    "email":"abhishekh@gmail.com",
+    "gender":"male",
+    "phone" :"9965467854",
+    "country":"india",
+    "state":"karnataka",
+    "city":"bangalore",
+    "date":"04-10-2021"
+
+  }
+]
